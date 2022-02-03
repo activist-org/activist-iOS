@@ -1,6 +1,6 @@
 # activist-iOS
 
-[![platforms](https://img.shields.io/badge/platforms-iOS%20│%20iPadOS-999999.svg)](https://github.com/activist-org/activistiOS)
+[![platforms](https://img.shields.io/badge/platforms-iOS%20│%20iPadOS-999999.svg)](https://github.com/activist-org/activist-iOS)
 [![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://github.com/activist-org/activist-iOS/blob/main/.github/CODE_OF_CONDUCT.md)
 
 ### activist.org on iOS
