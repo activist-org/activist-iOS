@@ -1,10 +1,12 @@
 # activist-iOS
 
-[![platforms](https://img.shields.io/badge/platforms-iOS%20│%20iPadOS-999999.svg)](https://github.com/activist-org/activist-iOS)
-[![issues](https://img.shields.io/github/issues/activist-org/activist-iOS)](https://github.com/activist-org/activist-iOS/issues)
-[![language](https://img.shields.io/badge/Swift-5-F0513C.svg?logo=swift&logoColor=ffffff)](https://github.com/activist-org/activist-iOS/blob/main/CONTRIBUTING.md)
-[![license](https://img.shields.io/github/license/activist-org/activist-iOS.svg)](https://github.com/activist-org/activist-iOS/blob/main/LICENSE.txt)
-[![coc](https://img.shields.io/badge/coc-Contributor%20Covenant-ff69b4.svg)](https://github.com/activist-org/activist-iOS/blob/main/.github/CODE_OF_CONDUCT.md)
+[![platform](https://img.shields.io/badge/iOS%20│%20iPadOS-999999.svg?logo=apple&logoColor=ffffff)](https://github.com/activist-org/activist-iOS)
+[![issues](https://img.shields.io/github/issues/activist-org/activist-iOS?label=%20&logo=github)](https://github.com/activist-org/activist-iOS/issues)
+[![language](https://img.shields.io/badge/Swift%205-F0513C.svg?logo=swift&logoColor=ffffff)](https://github.com/activist-org/activist-iOS/blob/main/CONTRIBUTING.md)
+[![license](https://img.shields.io/github/license/activist-org/activist-iOS.svg?label=%20)](https://github.com/activist-org/activist-iOS/blob/main/LICENSE.txt)
+[![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/activist-org/activist-iOS/blob/main/.github/CODE_OF_CONDUCT.md)
+[![instagram](https://img.shields.io/badge/Instagram-8134AF.svg?logo=instagram&logoColor=ffffff)](https://instagram.com/activist_org)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=ffffff)](https://twitter.com/activist_org)
 
 ### activist.org on iOS and iPadOS
 
