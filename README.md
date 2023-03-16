@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/activist-org/activist-iOS"><img src="https://raw.githubusercontent.com/activist-org/Organization/main/logo/activistGitHubOrgBanner.png" width=1024 alt="activist Logo"></a>
+  <a href="https://github.com/activist-org/activist-iOS"><img src="https://raw.githubusercontent.com/activist-org/Organization/main/logos/activistGitHubOrgBanner.png" width=1024 alt="activist Logo"></a>
 </div>
 
 [![platform](https://img.shields.io/badge/iOS%20│%20iPadOS-999999.svg?logo=apple&logoColor=ffffff)](https://github.com/activist-org/activist-iOS)
